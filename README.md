@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Ivan and I live in Belarus. This is my personal GitHub portfolio with recent projects. My specification is Front-End Development. I also enjoy learning new stuff and getting better day by day.
 
