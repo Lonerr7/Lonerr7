@@ -4,9 +4,9 @@ I'm Ivan and I live in Belarus. This is my personal GitHub portfolio with recent
 
 ## Skills
 
-* HTML
-* CSS (SCSS)
-* JavaScript
-* GULP
+* 💻 HTML
+* 💻 CSS (SCSS)
+* 👩‍💻 JavaScript
+* 🖥 GULP
 
 [![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lonerr7)](https://github.com/anuraghazra/github-readme-stats)
